@@ -20,7 +20,7 @@
 * During the demo, you **MUST** prove that the server is able to serve several clients in parallel (i.e. it is multi-threaded). Even if it takes a very short time to serve a client.
 
 
-* In the `fb-mvn-starter-kit` branch, you will find a structure of maven projects that you **CAN** use as a starting point. You **MAY** also start from scratch and define your own structure. In the proposed structure, the `caesar-lib` project contains the code of a library shared by the client and the server. It is useful if you want to share constants and code between the two programs.
+* In the `fb-mvn-starter-kit` branch, you will find a structure of maven projects that you **CAN** use as a starting point. You **MAY** also start from scratch and define your own structure.
 
 * Please fork this repo and push your code and documentation artifacts in your repo when you are done.
 
